@@ -2,4 +2,4 @@
 
 Aplikacija za poručivanje brze hrane.
 
-Aplikacija namenjena za porucivanje brze hrane.
+Seminarski rad iz Projekovanje softvera.
